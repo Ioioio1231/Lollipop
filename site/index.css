@@ -330,7 +330,7 @@ main {
 
 
 .training-age-section {
-  background-image: url('/pic/banner_2_wave.svg'); 
+  background-image: url('pic/banner_2_wave.svg'); 
   background-repeat: no-repeat;
   background-position: bottom center;
   position: relative; 
@@ -566,7 +566,7 @@ main {
   transform: translateX(-50%);
   width: 40px;   
   height: 40px;
-  background-image: url('/pic/bylavka.png');
+  background-image: url('pic/bylavka.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
